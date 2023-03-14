@@ -1,3 +1,6 @@
+#Example COMP1020
+#March 14 2023
+
 from foo import whiz_bang, beep_boop
 
 def run_whiz_bang():
