@@ -9,6 +9,10 @@ def run_beep_boop():
 def run_whiz_boop():
     pass
 
+def try():
+    a = "try"
+    return a
+
 def main():
     run_whiz_bang()
     run_beep_boop()
