@@ -1,8 +1,7 @@
 #This foo module contains all necessary functions for our demo
 #Blair D. Sullivan
 
-def whiz_bang(whiz: bool = True, bang: bool = False) -> None:
-
+def whiz_bang(whiz, bang):
     if whiz:
         print("Whiz")
     elif bang:
