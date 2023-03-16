@@ -2,6 +2,7 @@
 #Blair D. Sullivan
 
 def whiz_bang(whiz, bang):
+    """Prints whiz if first argument is true and bang if second is true."""
     if whiz:
         print("Whiz")
     if bang:
