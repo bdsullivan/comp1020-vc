@@ -4,7 +4,7 @@
 def whiz_bang(whiz, bang):
     if whiz:
         print("Whiz")
-    elif bang:
+    if bang:
         print("Bang")
 
 
